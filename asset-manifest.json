@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-animation/static/css/main.f45f97b4.css",
+    "main.js": "/react-animation/static/js/main.40beb73e.js",
+    "static/media/video2.mp4": "/react-animation/static/media/video2.5ae5c48d36ed27ba511f.mp4",
+    "static/media/video3.mp4": "/react-animation/static/media/video3.44910305692c1d82ef2d.mp4",
+    "static/media/video1.mp4": "/react-animation/static/media/video1.d755d7e3ca5362150424.mp4",
+    "static/media/logo.png": "/react-animation/static/media/logo.f2b92e3e45f691c5a1fc.png",
+    "index.html": "/react-animation/index.html",
+    "main.f45f97b4.css.map": "/react-animation/static/css/main.f45f97b4.css.map",
+    "main.40beb73e.js.map": "/react-animation/static/js/main.40beb73e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f45f97b4.css",
+    "static/js/main.40beb73e.js"
+  ]
+}
