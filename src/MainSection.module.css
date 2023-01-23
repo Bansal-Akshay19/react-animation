@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  margin-top: 15vh;
+  margin-left: 3vw;
+  /* height: 300vh; */
+  margin-bottom: 200px;
+}
+.text {
+  width: 30%;
+  margin-right: 6rem;
+}

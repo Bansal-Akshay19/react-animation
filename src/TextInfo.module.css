@@ -1,0 +1,23 @@
+.container {
+  /* background-color: red; */
+  padding-top: 4%;
+}
+.heading {
+  /* background-color: blue; */
+  margin-top: 10%;
+  margin-bottom: 10%;
+  background-image: linear-gradient(40deg, #741eff, #ff3a7c);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.subheading {
+  /* background-color: yellow; */
+  margin-bottom: 10%;
+  font-size: 3rem;
+}
+.description {
+  /* background-color: green; */
+  margin-bottom: 40%;
+  word-spacing: 10%;
+}

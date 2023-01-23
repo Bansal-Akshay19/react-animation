@@ -1,0 +1,17 @@
+.container {
+  position: sticky;
+  top: 9rem;
+  height: 65vh;
+  width: 56vw;
+  border-radius: 3rem;
+  /* z-index: 0;
+  top: 10rem;
+  border-radius: 5%;
+  height: 60vh;
+  width: 60vw;
+  background-color: red; */
+  overflow: hidden;
+}
+video {
+  margin-top: -160px;
+}
